@@ -1,15 +1,15 @@
 {
-    "name": "Aligent/Base",
+    "name": "aligent/base",
     "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Aligent Base - Magento module containing small patches/bugfixes.",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     },
-    "authors":[
+    "authors": [
         {
-            "name":"Luke Mills",
-            "email":"luke@aligent.com.au"
+            "name": "Luke Mills",
+            "email": "luke@aligent.com.au"
         }
     ]
 }
