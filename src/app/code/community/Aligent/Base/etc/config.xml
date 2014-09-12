@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Aligent_Base>
+            <version>0.0.0</version>
+        </Aligent_Base>
+    </modules>
+    <global>
+        <models>
+            <aligent_base>
+                <class>Aligent_Base_Model</class>
+            </aligent_base>
+        </models>
+    </global>
+</config>
