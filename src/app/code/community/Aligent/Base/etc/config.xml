@@ -1,4 +1,16 @@
 <?xml version="1.0"?>
+<!--
+/**
+ * config.xml
+ *
+ * @category  Aligent
+ * @package   Aligent_Base
+ * @author    Luke Mills <luke@aligent.com.au>
+ * @copyright 2014 Aligent Consulting.
+ * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ * @link      http://www.aligent.com.au/
+ */
+ -->
 <config>
     <modules>
         <Aligent_Base>
@@ -11,5 +23,16 @@
                 <class>Aligent_Base_Model</class>
             </aligent_base>
         </models>
+        <blocks>
+            <aligent_base>
+                <class>Aligent_Base_Block</class>
+            </aligent_base>
+            <checkout>
+                <rewrite>
+                    <onepage_billing>Aligent_Base_Block_Checkout_Onepage_Billing</onepage_billing>
+                    <onepage_shipping>Aligent_Base_Block_Checkout_Onepage_Shipping</onepage_shipping>
+                </rewrite>
+            </checkout>
+        </blocks>
     </global>
 </config>

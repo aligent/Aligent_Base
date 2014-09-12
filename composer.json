@@ -8,6 +8,10 @@
     },
     "authors": [
         {
+            "name": "Jonathan Day",
+            "email": "jonathan@aligent.com.au"
+        },
+        {
             "name": "Luke Mills",
             "email": "luke@aligent.com.au"
         }
