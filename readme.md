@@ -1,41 +1,33 @@
 Aligent Base Extension
 =====================
 Aligent Base - Magento module containing small patches/bugfixes.
+
 Facts
 -----
-- version: 1.0.0
+- version: 0.0.0
 - extension key: Aligent_Base
-- [extension on Magento Connect](http://www.magentocommerce.com/magento-connect/aligent)-base-1234.html)
-- Magento Connect 1.0 extension key: magento-community/Aligent_Base
-- Magento Connect 2.0 extension key: http://connect20.magentocommerce.com/community/Aligent_Base
 - [extension on GitHub](https://github.com/aligent/Aligent_Base)
-- [direct download link](http://connect.magentocommerce.com/community/get/Aligent_Base-1.0.0.tgz)
 
 Description
 -----------
-This paragraph describes what the extension does.
+Magento module containing small patches/bugfixes.
 
 Requirements
 ------------
 - PHP >= 5.2.0
 - Mage_Core
-- ...
 
 Compatibility
 -------------
-- Magento >= 1.4
+- Magento >= 1.9
 
 Installation Instructions
 -------------------------
-1. Install the extension via Magento Connect with the key shown above or copy all the files into your document root.
-2. Clear the cache, logout from the admin panel and then login again.
-3. Configure and activate the extension under System - Configuration - Company - Example Extension.
-4. ...
+1. Install the extension via composer.
 
 Uninstallation
 --------------
 1. Remove all extension files from your Magento installation
-2. ...
 
 Support
 -------
@@ -48,8 +40,8 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 Developer
 ---------
 Luke Mills
-[http://www.firstname-lastname.com](http://www.firstname-lastname.com)
-[@FirstNameLastName](https://twitter.com/FirstNameLastName)
+[http://www.aligent.com.au](http://www.aligent.com.au)
+[https://github.com/lukenm](https://github.com/lukenm)
 
 Licence
 -------
@@ -57,4 +49,6 @@ Licence
 
 Copyright
 ---------
-(c) 2014 Aligent
+(c) 2014 Aligent Consulting.
+[http://www.aligent.com.au](http://www.aligent.com.au)
+[https://github.com/aligent](https://github.com/aligent)
